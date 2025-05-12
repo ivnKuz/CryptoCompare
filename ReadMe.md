@@ -26,6 +26,7 @@ git clone https://github.com/ivnKuz/CryptoCompare
 cd CryptoCompare
 
 # run it with live Server(VS code extension) won't work if opened from index.html.
+# NOTE: This api is quite limited in free version, so might give you errors saying you've reached your limit already by only choosing few coins to compare.
 
 ## 🖼 Screenshots
 <img width="1440" alt="Screenshot 2025-05-12 at 4 08 30" src="https://github.com/user-attachments/assets/67851661-15e2-4525-b8a9-8cce93cf0131" />
